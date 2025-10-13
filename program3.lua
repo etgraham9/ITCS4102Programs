@@ -1,3 +1,5 @@
+--TEAM INFO: Ethan Graham, Cody Kath, Jay Wu
+
 -- This program wil showcase exception handling or concurrency.
 
 function Sum(a, b)

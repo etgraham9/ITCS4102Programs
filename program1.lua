@@ -1,3 +1,5 @@
+--TEAM INFO: Ethan Graham, Cody Kath, Jay Wu
+
 -- This Program will demonstrate 4 data types and showcase 2 in built methods showcasing data manipulation for each type.
 
 --Ints

@@ -1,3 +1,5 @@
+--TEAM INFO: Ethan Graham, Cody Kath, Jay Wu
+
 -- This program will showcase 2 major data structures and 2 major control structures.
 function newHeadOfList(list, value)
     local newHead = {value, next = nil}
